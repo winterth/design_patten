@@ -1,1 +1,2 @@
-# design_patten
+# 设计模式笔记（Java版）
+## 1. UML关系图
